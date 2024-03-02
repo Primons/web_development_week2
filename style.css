@@ -1,0 +1,21 @@
+.container { display: flex; 
+    justify-content: space-between; }
+
+.image-container { text-align: center;
+display: inline;  }
+
+.image-container img {
+    width: 100px;  
+    height: auto;
+ }
+
+.gallery{ display: flex; 
+    justify-content:space-evenly; }
+
+.seasons{ 
+    display: inline; }
+
+
+ li ol{display: inline;
+}
+
